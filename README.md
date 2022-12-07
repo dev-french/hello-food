@@ -1,10 +1,10 @@
 # hello-food
 
 ## Project setup
-```
+```  
 npm install
 ```
-
+d
 ### Compiles and hot-reloads for development
 ```
 npm run serve
